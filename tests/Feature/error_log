@@ -1,0 +1,14 @@
+[20-Nov-2018 19:26:46 UTC] PHP Notice:  Undefined variable: mode in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/system_m.php on line 1
+[20-Nov-2018 19:26:46 UTC] PHP Notice:  Undefined index: send_email in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/system_m.php on line 1
+[27-Nov-2018 22:55:10 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/engine_functions.php on line 1
+[27-Nov-2018 22:55:10 UTC] PHP Notice:  Undefined variable: mode in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/system_m.php on line 1
+[27-Nov-2018 22:55:10 UTC] PHP Notice:  Undefined index: send_email in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/system_m.php on line 1
+[27-Nov-2018 22:55:10 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/engine_functions.php on line 1
+[27-Nov-2018 22:59:20 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/engine_functions.php on line 1
+[27-Nov-2018 22:59:20 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/engine_functions.php on line 1
+[27-Nov-2018 23:03:02 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/engine_functions.php on line 1
+[27-Nov-2018 23:03:03 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/engine_functions.php on line 1
+[27-Nov-2018 23:06:37 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/engine_functions.php on line 1
+[27-Nov-2018 23:06:37 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/engine_functions.php on line 1
+[27-Nov-2018 23:09:59 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/engine_functions.php on line 1
+[27-Nov-2018 23:09:59 UTC] PHP Warning:  preg_replace(): The /e modifier is no longer supported, use preg_replace_callback instead in /home/u2860879/public_html/datasuccesswo.com/tests/Feature/engine_functions.php on line 1
