@@ -49,7 +49,7 @@
     // page is now ready, initialize the calendar...
     var data=[];
     $.each({!!$schedule!!},function(key,i){
-    	data[key] = {title:this.nama_pemesan,start:this.tanggal,id:this.id};
+    	if(this.tanggal)data[key] = {title:this.nama_pemesan,start:this.tanggal,id:this.id};
     });
     console.log(data);
     $('#calendar').fullCalendar({

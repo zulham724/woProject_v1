@@ -185,7 +185,7 @@
             $("#table").DataTable();
 
             $.each({!!$notification!!},function(key,i){
-                console.log(i);
+                // console.log(i);
                 $("#notification").append(
                     "<li>\
                         <a href='#' onclick=readNotif('"+this.id+"')>\
@@ -204,7 +204,7 @@
         });
 
         function readNotif(id){
-            console.log(id);
+            // console.log(id);
             var data = {id:id};
             $.ajax({
                 url:"{{url('readNotif')}}",
@@ -220,9 +220,9 @@
                         </a>\
                     </li>");
                 $("#countNotif").text(data['countNotif']);
-                console.log(data['notification']);
+                // console.log(data['notification']);
                 $.each(data['notification'],function(key,i){
-                    console.log(i);
+                    // console.log(i);
                     $("#notification").append(
                         "<li>\
                             <a href='#' onclick=readNotif('"+this.id+"')>\
